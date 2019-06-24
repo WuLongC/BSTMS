@@ -1,0 +1,13 @@
+package com.bank.BSTMS;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BstmsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BstmsApplication.class, args);
+	}
+
+}
